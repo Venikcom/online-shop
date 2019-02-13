@@ -47,5 +47,12 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "8",
+        "title": "Mini Cooper S",
+        "image": "mini-cooper.jpg",
+        "description": "2015 MINI Hardtop 2 Door Cooper S",
+        "price": 10999.99
     }
 ]
